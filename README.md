@@ -1,2 +1,2 @@
 # Trabalho-Pratico
-Desenvolvimento de um site pessoal para a disciplina Desenvolvimento de Interfaces Web 
+Código fonte de um site pessoal desenvolvido para a disciplina Desenvolvimento de Interfaces Web.
